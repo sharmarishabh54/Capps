@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781228256558",
+    "firebase_url": "https://capps-sk96.firebaseio.com",
+    "project_id": "capps-sk96",
+    "storage_bucket": "capps-sk96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781228256558:android:03bdd4ce015f1c81a01ebf",
+        "android_client_info": {
+          "package_name": "com.nulledbits.capps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781228256558-qedemps4dcvodnulhtl15uom2ttpcnfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nulledbits.capps",
+            "certificate_hash": "c505a08a8fe225a71464f94c25ee545f2bb6f640"
+          }
+        },
+        {
+          "client_id": "781228256558-ckf18gpktkd20hhb8nttfmrou3jjcrhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8FbPnode1LK-ZZmtd9MgF5PTReU1oC3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781228256558-ckf18gpktkd20hhb8nttfmrou3jjcrhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
